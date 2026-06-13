@@ -1,8 +1,20 @@
 {
   "name": "faq",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "homepage": "https://github.com/Mdr0405/CS-FAQ#readme",
+  "bugs": {
+    "url": "https://github.com/Mdr0405/CS-FAQ/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdr0405/CS-FAQ.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
